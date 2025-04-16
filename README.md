@@ -28,7 +28,7 @@ Whether you're planning a remote meeting or syncing with global teams – this a
 ## 🛠 Authors
 
 Developed by:
-- [@kulikboxx](https://github.com/kulikboxx)
+- [@WladyslawKulik](https://github.com/WladyslawKulik)
 - [@walentybox](https://github.com/walentybox)
 
 ---
