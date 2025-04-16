@@ -25,11 +25,10 @@ Whether you're planning a remote meeting or syncing with global teams – this a
 
 ---
 
-## 🛠 Authors
+## 🛠 Team
 
-Developed by:
-- [@WladyslawKulik](https://github.com/WladyslawKulik)
-- [@walentybox](https://github.com/walentybox)
+- Development: [@walentybox](https://github.com/walentybox)
+- Product & design: Silver Web
 
 ---
 
